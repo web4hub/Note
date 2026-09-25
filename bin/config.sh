@@ -6,3 +6,10 @@ _
 _
 _
 PASSWORD@YOUR.PROXY.SERVER:8080
+$ git config --list
+$ git config --global --list
+$ git config --global user.name "seriki yakub"
+$ git config --global user.email "author@email.com"
+git config user.email "reply+CO2NWYH32WPRO7DXWTDXUCDLFZCIFEVBNHHQAAAAAFGK6KHH@reply.github.com
+$ git branch --all
+$ git branch -
